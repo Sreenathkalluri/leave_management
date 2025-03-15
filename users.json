@@ -1,0 +1,72 @@
+[
+  {
+    "name": "user1",
+    "leave_type": "casual",
+    "available_days": 9
+  },
+  {
+    "name": "user1",
+    "leave_type": "medical",
+    "available_days": 3
+  },
+  {
+    "name": "user2",
+    "leave_type": "casual",
+    "available_days": 8
+  },
+  {
+    "name": "user2",
+    "leave_type": "medical",
+    "available_days": 3
+  },
+  {
+    "name": "User3",
+    "leave_type": "casual",
+    "available_days": 12
+  },
+  {
+    "name": "User3",
+    "leave_type": "medical",
+    "available_days": 6
+  },
+  {
+    "name": "User4",
+    "leave_type": "casual",
+    "available_days": 15
+  },
+  {
+    "name": "User4",
+    "leave_type": "medical",
+    "available_days": 7
+  },
+  {
+    "name": "User5",
+    "leave_type": "casual",
+    "available_days": 9
+  },
+  {
+    "name": "User5",
+    "leave_type": "medical",
+    "available_days": 4
+  },
+  {
+    "name": "User6",
+    "leave_type": "casual",
+    "available_days": 11
+  },
+  {
+    "name": "User6",
+    "leave_type": "medical",
+    "available_days": 5
+  },
+  {
+    "name": "User7",
+    "leave_type": "casual",
+    "available_days": 14
+  },
+  {
+    "name": "User7",
+    "leave_type": "medical",
+    "available_days": 8
+  }
+]
